@@ -1,7 +1,9 @@
 # react-native-sip2
 ![npm version](https://badge.fury.io/js/react-native-sip2.svg)
 
-**UPDATE**: Now is based on PJSIP 2.9
+- **UPDATE**: Now built-in PJSIP lib
+
+- **UPDATE**: Now is based on PJSIP 2.9
 
 compatible with RN 0.60+ (iOS and AndroidX)
 
